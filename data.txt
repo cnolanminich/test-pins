@@ -3,3 +3,8 @@
   rows: 32
   cols: 11
   type: table
+- path: mtcars-2
+  name: mtcars-2
+  rows: 32
+  cols: 11
+  type: table
